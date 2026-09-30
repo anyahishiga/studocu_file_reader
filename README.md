@@ -2,7 +2,6 @@
 
 Một tiện ích mở rộng nhẹ dành cho trình duyệt, giúp tối ưu hóa trải nghiệm đọc và lưu trữ tài liệu trên Studocu.
 
-> **Trạng thái:** v1.0
 
 ## 📖 Giới thiệu
 
@@ -43,16 +42,5 @@ dụng
 
 ---
 
-Video Testing:
-
-https://github.com/user-attachments/assets/0f98de3a-cdbb-464d-8209-b9953b0721ee
-
-## ⚠️ Lưu ý (Disclaimer)
-Công cụ này được tạo ra với mục đích hỗ trợ học tập và nghiên cứu cá nhân. Vui lòng sử dụng có trách nhiệm và tôn trọng bản quyền của tài liệu gốc.
-
----
-## Stars ⭐
 
 
-
-<img width="2748" height="1986" alt="star-history-20251211 (1)" src="https://github.com/user-attachments/assets/f0fd47b7-d196-477d-a0d6-4311fdcac177" />
