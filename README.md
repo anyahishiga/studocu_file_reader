@@ -42,5 +42,7 @@ Do đây là công cụ phát triển cá nhân (chưa đưa lên Store), bạn 
 
 ---
 
+## 👨‍💻 Author
 
+**Made by Quang Huy** ❤️
 
