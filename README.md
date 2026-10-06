@@ -3,11 +3,11 @@
 Một tiện ích mở rộng nhẹ dành cho trình duyệt, giúp tối ưu hóa trải nghiệm đọc và lưu trữ tài liệu trên Studocu.
 
 
-## 📖 Giới thiệu
+##  Giới thiệu
 
 Công cụ này được phát triển để giải quyết các vấn đề hiển thị gây cản trở khi xem tài liệu học tập. Thay vì phải thao tác thủ công phức tạp, extension cung cấp giải pháp "một click" để làm sạch giao diện và xuất tài liệu ra định dạng in ấn chuẩn.
 
-## ✨ Tính năng chính
+##  Tính năng chính
 
 ### 1. Bypass Blur & Remove Watermark 
 Đây là tính năng cốt lõi giúp hiển thị nội dung nguyên bản của tài liệu:
@@ -23,7 +23,7 @@ Tính năng hỗ trợ lưu tài liệu về máy để in ấn hoặc đọc of
 
 ---
 
-## 🛠 Hướng dẫn cài đặt
+## Hướng dẫn cài đặt
 
 Do đây là công cụ phát triển cá nhân (chưa đưa lên Store), bạn cần cài đặt thủ công qua chế độ Developer:
 
@@ -42,7 +42,14 @@ Do đây là công cụ phát triển cá nhân (chưa đưa lên Store), bạn 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Made by Quang Huy** ❤️
 
+
+## MoMo Payment
+
+                                                      thị nguyện tùy tâm nếu muốn đô nết cho thí chủ 
+<p align="center">
+  <img src="./pic/1791299769855_181505205043026853_4472347052853130033_b11e0ec05c3d2c5a65204d99ab96958e.jpg" width="300">
+</p>
